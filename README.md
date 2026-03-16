@@ -15,6 +15,11 @@ DashengAudioGen is a unified audio generation model that can jointly synthesize 
 - 🌐 Web Demo:  
   https://nieeim.github.io/Dasheng-AudioGen-Web/
 
+
+- 🦞 OpenClaw Skill:  
+  https://clawhub.ai/jimbozhang/dasheng-mix-audiogen
+
+
 ## Coming Soon
 
 Training and inference code, model checkpoints, and the full paper will be released in this repository soon.
