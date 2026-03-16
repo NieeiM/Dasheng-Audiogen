@@ -1,19 +1,18 @@
-<!-- # 🎹: DashengAudioGen: A Single Model for Joint Generation of Intelligible Speech, Music, and Acoustics from Text
-
-huggingface Demo:https://huggingface.co/spaces/mispeech/Dasheng-Mix-Audiogen
-Web Demo: https://nieeim.github.io/Dasheng-AudioGen-Web/
-training&inferce code, checkpoint and paper will release in this repo soon. welcome for star.    -->
 # 🎹 DashengAudioGen: A Single Model for Joint Generation of Intelligible Speech, Music, and Acoustics from Text
 
 DashengAudioGen is a unified audio generation model that can jointly synthesize **intelligible speech, music, and environmental acoustics** directly from text descriptions.
 
-## Demo
+<p align="center">
 
-- 🤗 Hugging Face Demo:  
-  https://huggingface.co/spaces/mispeech/Dasheng-Mix-Audiogen
+<a href="https://huggingface.co/spaces/mispeech/Dasheng-Mix-Audiogen">
+<img src="https://img.shields.io/badge/🤗%20HuggingFace-Demo-yellow">
+</a>
 
-- 🌐 Web Demo:  
-  https://nieeim.github.io/Dasheng-AudioGen-Web/
+<a href="https://nieeim.github.io/Dasheng-AudioGen-Web/">
+<img src="https://img.shields.io/badge/🌐%20Web-Demo-blue">
+</a>
+
+</p>
 
 ## Coming Soon
 
