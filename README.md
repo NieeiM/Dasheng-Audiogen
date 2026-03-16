@@ -10,7 +10,7 @@ DashengAudioGen is a unified audio generation model that can jointly synthesize 
 ## Demo
 
 - 🤗 Hugging Face Demo:  
-  https://huggingface.co/spaces/mispeech/Dasheng-Mix-Audiogen
+  https://huggingface.co/spaces/mispeech/Dasheng-AudioGen
 
 - 🌐 Web Demo:  
   https://nieeim.github.io/Dasheng-AudioGen-Web/
