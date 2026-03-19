@@ -2,7 +2,7 @@
 
 [![Hugging Face Demo](https://img.shields.io/badge/HuggingFace-Demo-orange?logo=huggingface)](https://huggingface.co/spaces/mispeech/Dasheng-AudioGen)
 [![Web Demo](https://img.shields.io/badge/Website-Demo-181717?logo=google-chrome)](https://nieeim.github.io/Dasheng-AudioGen-Web/)
-[![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-brightgreen)](https://clawhub.ai/jimbozhang/dasheng-mix-audiogen)
+[![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-brightgreen)](https://clawhub.ai/jimbozhang/midasheng-audio-generate)
 
 **DashengAudioGen** is a unified audio generation model that can jointly synthesize **intelligible speech, music, and environmental acoustics** directly from text descriptions.
 
@@ -19,7 +19,7 @@
 - Web Demo:
   https://nieeim.github.io/Dasheng-AudioGen-Web/
 - OpenClaw Skill:
-  https://clawhub.ai/jimbozhang/dasheng-mix-audiogen
+  https://clawhub.ai/jimbozhang/midasheng-audio-generate
 
 ## Coming Soon
 
