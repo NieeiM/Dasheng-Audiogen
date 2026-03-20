@@ -26,3 +26,6 @@
 Training and inference code, model checkpoints, and the full paper will be released in this repository soon.
 
 If you find this project interesting, please consider giving it a **star**.
+
+## Acknowledgments
+DashengAudioGen was developed with contributions from XIAOMI LLM PLUS and SJTU X-LANCE.
