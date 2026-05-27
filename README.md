@@ -5,11 +5,17 @@
 
 **DashengAudioGen** is a unified audio generation model that can jointly synthesize **intelligible speech, music, and environmental acoustics** directly from text descriptions.
 
-<div align="center">
-  <video src="./dasheng-audiogen-demo-video.mp4" width="70%" controls>
-    Your browser does not support the video tag.
+<p align="center">
+  <video
+    src="https://github.com/user-attachments/assets/497f5688-8731-4830-8ee7-b9cf4234d900"
+    controls
+    autoplay
+    muted
+    loop
+    playsinline
+    width="85%">
   </video>
-</div>
+</p>
 
 ## Demo
 
